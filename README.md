@@ -1,1 +1,0 @@
-# Centralized-Platform-for-Stock-Prediction
